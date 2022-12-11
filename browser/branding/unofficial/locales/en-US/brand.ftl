@@ -16,12 +16,12 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--brand-shorter-name = Masker
--brand-short-name = Masker
--brand-shortcut-name = Masker
+-brand-shorter-name = Masker Browser
+-brand-short-name = Masker Browser
+-brand-shortcut-name = Masker Browser
 -brand-full-name = Masker Browser
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
--brand-product-name = Masker
+-brand-product-name = Masker Browser
 -vendor-short-name = CoderLearn
 trademarkInfo = { " " }

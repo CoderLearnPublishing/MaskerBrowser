@@ -42,7 +42,7 @@ menu-quit-mac =
     .label = Quit { -brand-shorter-name }
 
 menu-about =
-    .label = About { -brand-shorter-name }
+    .label = About
     .accesskey = A
 
 ## File Menu

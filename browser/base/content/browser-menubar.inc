@@ -24,10 +24,7 @@
                 </menu>
                 <menuitem id="menu_newNavigator"
                           key="key_newNavigator"
-                          command="cmd_newNavigator" data-l10n-id="menu-file-new-window"/>
-                <menuitem id="menu_newPrivateWindow"
-                          command="Tools:PrivateBrowsing"
-                          key="key_privatebrowsing" data-l10n-id="menu-file-new-private-window"/>
+                          command="cmd_newNavigator" data-l10n-id="menu-file-new-window"/>                          
                 <menuitem id="menu_openLocation"
                           hidden="true"
                           command="Browser:OpenLocation"
@@ -496,7 +493,7 @@
                 <menuitem id="aboutName"
                           oncommand="openAboutDialog();"
                           data-l10n-id="menu-about"
-                          appmenu-data-l10n-id="appmenu-about"/>
+                          appmenu-data-l10n-id="appmenu-about"/>                
                 <menuseparator id="helpPolicySeparator"
                           hidden="true"/>
                 <menuitem id="helpPolicySupport"

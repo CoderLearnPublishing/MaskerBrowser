@@ -2242,7 +2242,7 @@ getHardcodedLayout = ({
               {
                 type: "PrivacyLink",
                 properties: {
-                  url: "https://www.mozilla.org/privacy/firefox/",
+                  url: "https://apps.coderlearn.com/masker/privacy-policy-2/",
                   title: {
                     id: "newtab-section-menu-privacy-notice",
                   },
